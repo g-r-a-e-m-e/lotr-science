@@ -5,4 +5,4 @@ I have questions - questions that need answering.
 ## List of Questions
 | Question | Answered? |
 |---|---|
-| [Deposit rate of the River Anduin](/river-anduin) | No |
+| [Deposit Rate of the River Anduin](/the-one-ring/river-anduin) | No |
